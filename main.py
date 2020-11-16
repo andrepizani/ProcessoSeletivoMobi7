@@ -77,8 +77,8 @@ def DentroPOI(df, placa, poi, datainicio):
 # In[3]:
 
 
-base_pois_def = pd.read_csv('C:/teste/base_pois_def.csv', decimal=",")
-posicoes = pd.read_csv('C:/teste/posicoes.csv', decimal=",")
+base_pois_def = pd.read_csv('base_pois_def.csv', decimal=",")
+posicoes = pd.read_csv('posicoes.csv', decimal=",")
 
 
 # In[4]:
